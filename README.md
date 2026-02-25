@@ -1,14 +1,17 @@
-
 # Hi, I'm Shamanth 👋
 ### Platform Engineer & Site Reliability Engineer
 
 I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
 
 ## 🚀 About Me
-- 
+- 🏗️ Currently: **Container Architect & GenAI Practitioner** at Amazon Web Services (AWS)
+- ☁️ Specialized in: **AWS/GCP/Azure**, **Kubernetes**, and **Terraform**
+- 🛠️ Passionate about: **Automating CI/CD pipelines** and **Infrastructure as Code (IaC)**
+- 🎓 M.S. Computer Engineering, **New York University** (2015–2016)
+- 📍 New York City Metropolitan Area
+- 💡 Led architectural reviews for enterprise clients managing **$5M+** in annual cloud spend
 
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
@@ -16,7 +19,7 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="Red Hat OpenShift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>
-<p/>
+</p>
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
@@ -35,14 +38,31 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
-<p/>
+</p>
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Container Architect | Amazon Web Services (AWS) | Jul 2022 – Present |
+| Sr Cloud Engineer / SRE | Goldman Sachs | Feb 2019 – Jun 2022 |
+| DevOps Engineer | Verizon | Jan 2017 – Feb 2019 |
+| AWS Cloud Engineer II | Strateology | Jun 2013 – Jul 2015 |
+
+## 🏆 Certifications
+
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS AI](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-Prometheus_Certified_Associate-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![AWS Networking](https://img.shields.io/badge/AWS-Advanced_Networking_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-Fundamentals_(ArgoCD)-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📝 Featured Blog Posts
 
 ## 📊 GitHub Stats
 ![Stats Card](https://github-readme-stats-salesp07.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dshamanthreddy&layout=compact&theme=tokyonight&langs_count=8)
-
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dshamanthreddy/)
