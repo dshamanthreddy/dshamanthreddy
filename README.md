@@ -5,9 +5,7 @@
 I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
 
 ## 🚀 About Me
-- 🏗️ Currently building: [Project Name]
-- ☁️ Specialized in: **AWS/GCP/Azure**, **Kubernetes**, and **Terraform**.
-- 🛠️ Passionate about: **Automating CI/CD pipelines** and **Infrastructure as Code (IaC)**.
+- 
 
 
 ### 🛠️ Tech Stack
@@ -44,7 +42,6 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
 ## 📊 GitHub Stats
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshamanthreddy&layout=compact&theme=tokyonight)
-
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dshamanthreddy/)
