@@ -25,4 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app[YOUR_USERNAME]&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/dshamanthreddy)
