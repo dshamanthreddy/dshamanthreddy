@@ -40,8 +40,8 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
 ### 📝 Featured Blog Posts
 
 ## 📊 GitHub Stats
-![Stats Card](https://github-readme-stats.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshamanthreddy&layout=compact&theme=tokyonight)
+![Stats Card](https://github-readme-stats-salesp07.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dshamanthreddy&layout=compact&theme=tokyonight&langs_count=8)
 
 
 ## 📫 Connect with Me
