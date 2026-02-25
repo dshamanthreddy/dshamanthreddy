@@ -1,15 +1,12 @@
 # Hi, I'm Shamanth 👋
 ### Platform Engineer & Site Reliability Engineer
 
-I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
+I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
 
 ## 🚀 About Me
 - 🏗️ Currently: **Container Architect & GenAI Practitioner** at Amazon Web Services (AWS)
 - ☁️ Specialized in: **AWS/GCP/Azure**, **Kubernetes**, and **Terraform**
-- 🛠️ Passionate about: **Automating CI/CD pipelines** and **Infrastructure as Code (IaC)**
-- 🎓 M.S. Computer Engineering, **New York University** (2015–2016)
-- 📍 New York City Metropolitan Area
-- 💡 Led architectural reviews for enterprise clients managing **$5M+** in annual cloud spend
+
 
 ## 🛠️ Tech Stack
 
@@ -40,14 +37,6 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </p>
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Container Architect | Amazon Web Services (AWS) | Jul 2022 – Present |
-| Sr Cloud Engineer / SRE | Goldman Sachs | Feb 2019 – Jun 2022 |
-| DevOps Engineer | Verizon | Jan 2017 – Feb 2019 |
-| AWS Cloud Engineer II | Strateology | Jun 2013 – Jul 2015 |
 
 ## 🏆 Certifications
 
