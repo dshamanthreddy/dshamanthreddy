@@ -39,6 +39,7 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Free/Open source gee
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <p/>
 
+### 📝 Featured Blog Posts
 
 ## 📊 GitHub Stats
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight)
