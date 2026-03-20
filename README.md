@@ -15,7 +15,6 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform - GCP" alt="Google Cloud Platform - GCP" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="Red Hat OpenShift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>
 </p>
 
 <p>
