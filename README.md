@@ -10,32 +10,32 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform - GCP" alt="Google Cloud Platform - GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="Red Hat OpenShift" width="40" height="40"/>
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="Argo CD" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-crossplane/main/img/crossplane-icon.svg" title="Crossplane" alt="Crossplane" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" title="Vault HashiCorp" alt="Vault HashiCorp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="AWS" width="40" height="40"/><br>AWS</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform - GCP" alt="GCP" width="40" height="40"/><br>GCP</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Azure" width="40" height="40"/><br>Azure</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="OpenShift" width="40" height="40"/><br>OpenShift</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/><br>Kubernetes</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/><br>Helm</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/><br>Kustomize</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="ArgoCD" width="40" height="40"/><br>ArgoCD</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-crossplane/main/img/crossplane-icon.svg" title="Crossplane" alt="Crossplane" width="40" height="40"/><br>Crossplane</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/><br>Go</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/><br>Prometheus</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" title="Vault HashiCorp" alt="Vault" width="40" height="40"/><br>Vault</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/><br>Terraform</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/><br>Ansible</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/><br>Jenkins</td>
+    <td align="center"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/><br>GH Actions</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/><br>Bash</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/><br>Linux</td>
+  </tr>
+</table>
 
 ## 🏆 Certifications
 
