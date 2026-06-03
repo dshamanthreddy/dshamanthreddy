@@ -1,5 +1,5 @@
 # Hi, I'm Shamanth 👋
-### Platform Engineer & Site Reliability Engineer
+### Cloud Native Architect & Agentic AI Platform Engineer
 
 I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
 
