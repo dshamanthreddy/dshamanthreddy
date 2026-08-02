@@ -10,18 +10,31 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 ## Tech Stack
 
 **Clouds** — AWS (primary), GCP, Azure
-**Container & Orchestration:** Amazon EKS, EKS Auto Mode,EKS capabilities, Karpenter,Helm, Argo CD,Flux 
+
+**Container & Orchestration:** Amazon EKS, EKS Auto Mode,EKS capabilities, Karpenter,Helm, Argo CD,Flux
+
 **Networking:** VPC CNI ,Cilium, Gateway API, kgateway, CoreDNS
+
 **Provisioning & Platform Delivery** — Terraform (+ pre-commit-terraform, tflint, Checkov), Crossplane & Upbound reference platforms, AWS CDK, CloudFormation, Ansible · internal developer platforms and self-service APIs
+
 **Observability:** OpenTelemetry,Prometheus, Grafana, AMP/AMG + ADOT, Langfuse, Hubble
+
 **GitOps & Pipelines** — Argo CD, Argo Rollouts, Argo Workflows, Flux · multi-cluster GitOps topologies · GitHub Actions, Jenkins, AWS CodePipeline / CodeBuild
+
 **Traffic, Mesh & Connectivity** — Istio, Envoy (external processing filters) · Gateway API, AWS Load Balancer Controller, ALB/NLB · VPC CNI, CoreDNS, ExternalDNS, cert-manager,Route 53, CloudFront, PrivateLink, Transit Gateway
+
 **Accelerated Compute & Training** — NVIDIA GPU Operator, device plugin, DCGM exporter, MIG partitioning · Karpenter GPU provisioning, Spot capacity, EFA networking · multi-tenant scheduling, quotas and cost attribution on EKS
+
 **AI/ML Inference, Serving & Gateway:** vLLM,NeMo Framework, AWS Neuron / Trainium 2 / Inferential 2, Ray Serve, NVIDIA Triton, Amazon Bedrock AgentCore,kgateway + agentgateway, Bifrost, LiteLLM 
-**AI Agents Frameworks :** Strands Kagent, MCP (Model Context Protocol), LangGraph, CrewAI, langchain, 
+
+**AI Agents Frameworks :** Strands Kagent, MCP (Model Context Protocol), LangGraph, CrewAI, langchain
+
 **Security, Identity & Compliance:** IRSA, EKS Pod Identity,External Secrets Operator, AWS Secrets Manager, Prowler, Kyverno, OPA Gatekeeper, Trivy · GuardDuty, Inspector, Security Hub, Keycloak, OAuth2-Proxy (OIDC)
+
 **MLOps:** MLflow, Kubeflow, KServe
+
 **Vector DB & Evaluation:** Milvus, RAGAS, LLM-as-a-Judge, Langfuse Custom Evaluators
+
 **Languages:** — Go, Python, Bash
 
 
