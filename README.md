@@ -55,7 +55,7 @@ operations team paying for it later.
 **Application Modernization** — monolith decomposition and strangler-fig migrations · containerization and 12-factor refactoring · serverless with Lambda, Fargate and Step Functions · event-driven architecture with EventBridge, SQS/SNS and MSK · API-first with API Gateway and gRPC
 
 ## 🏆 Certifications
-
+![NVIDIA NCA-AIIO](https://img.shields.io/badge/NVIDIA-NCA--AIIO:_AI_Infrastructure_%26_Operations-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS AI](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PCA](https://img.shields.io/badge/PCA-Prometheus_Certified_Associate-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
