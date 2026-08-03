@@ -1,10 +1,19 @@
 # Hi, I'm Shamanth 👋
-### Cloud Native Architect & Agentic AI Platform Engineer
 
-I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My favorite topics are AI, Agents, DevOps, DevSecOps, automation, metrics.
+### Container Architect & GenAI Practitioner @ AWS
+
+A decade of experience in DevOps, microservices and container orchestration. These days I
+spend most of my time on Amazon EKS — making clusters cheaper to run, easier to
+upgrade, and capable of hosting GPU and generative AI workloads without the
+operations team paying for it later.
 
 ## 🚀 About Me
-- 🏗️ Currently: **Container Architect & GenAI Practitioner** at Amazon Web Services (AWS)
+
+- 🏗️ Container Architect & GenAI Practitioner at **Amazon Web Services**
+- 🔬 Working on multi-tenant GPU platforms, agentic AI on Kubernetes, and EKS day-2 operations
+- ✍️ Published on the **AWS Containers Blog** and **AWS Builder Center**
+- 🌱 Open source contributor — AWS EKS Workshop, app modernization blueprints, Istio on EKS
+- 📍 Based in the New York metro area
 
 
 ## Tech Stack
@@ -54,7 +63,7 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-Fundamentals_(ArgoCD)-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-### 📝 Featured Blog Posts
+
 ## 📝 Featured Blog Posts
 
 - **[Full request and response compliance logging on Amazon EKS](https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/)** · AWS Containers Blog
