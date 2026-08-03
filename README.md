@@ -55,9 +55,15 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 ![GitOps](https://img.shields.io/badge/GitOps-Fundamentals_(ArgoCD)-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📝 Featured Blog Posts
-Full request and response compliance logging on Amazon EKS
+## 📝 Featured Blog Posts
 
-[![Full request and response compliance logging on Amazon EKS](https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/)
+- **[Full request and response compliance logging on Amazon EKS](https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/)** · AWS Containers Blog
+- **[Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh](https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh/)** · AWS Containers Blog
+- **[Enabling swap memory on EKS with Karpenter](https://builder.aws.com/content/38j5cjxVTorJaNTu37HkPcDVcUs/how-to-enable-swap-memory-on-eks-using-karpenter)** · AWS Builder Center
+- **[Optimizing IP usage with subnet selection in EKS Auto Mode](https://builder.aws.com/content/2jbxVGte7nRIaUeeLLUTIPHLcZR/optimize-ip-with-subnet-selection-for-pods-in-amazon-eks-auto-mode)** · AWS Builder Center
+- **[Automating Kubernetes version monitoring and upgrades](https://builder.aws.com/content/32pFfExlhlwBhjG5wmarH1M30lQ/automate-kubernetes-version-monitoring-and-upgrades-with-amazon-eks-auto-mode)** · AWS Builder Center
+
+More on [AWS Builder Center](https://builder.aws.com/community/@devagaris)
 
 ## 📊 GitHub Stats
 ![Stats Card](https://github-readme-stats-salesp07.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight&count_private=true)
