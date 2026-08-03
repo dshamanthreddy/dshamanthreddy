@@ -5,7 +5,7 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 
 ## 🚀 About Me
 - 🏗️ Currently: **Container Architect & GenAI Practitioner** at Amazon Web Services (AWS)
-- ☁️ Specialized in: **AWS/GCP/Azure**, **Kubernetes**, and **Terraform**
+
 
 ## Tech Stack
 
@@ -25,9 +25,9 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 
 **Accelerated Compute & Training** — NVIDIA GPU Operator, device plugin, DCGM exporter, MIG partitioning · Karpenter GPU provisioning, Spot capacity, EFA networking · multi-tenant scheduling, quotas and cost attribution on EKS
 
-**AI/ML Inference, Serving & Gateway:** vLLM,NeMo Framework, AWS Neuron / Trainium 2 / Inferential 2, Ray Serve, NVIDIA Triton, Amazon Bedrock AgentCore,kgateway + agentgateway, Bifrost, LiteLLM 
+**AI/ML Inference, Serving & Gateway:** vLLM,NeMo Framework, AWS Neuron / Trainium2 / Inferential2, Ray Serve, NVIDIA Triton, Amazon Bedrock AgentCore,kgateway + agentgateway, Bifrost, LiteLLM 
 
-**AI Agents Frameworks :** Strands Kagent, MCP (Model Context Protocol), LangGraph, CrewAI, langchain
+**AI Agents Frameworks :** Strands Kagent, MCP, LangGraph, CrewAI, langchain
 
 **Security, Identity & Compliance:** IRSA, EKS Pod Identity,External Secrets Operator, AWS Secrets Manager, Prowler, Kyverno, OPA Gatekeeper, Trivy · GuardDuty, Inspector, Security Hub, Keycloak, OAuth2-Proxy (OIDC)
 
@@ -37,8 +37,13 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 
 **Languages:** — Go, Python, Bash
 
+**NVIDIA Stack:** GPU Operator, Network Operator, k8s-device-plugin, DCGM / DCGM Exporter · MIG partitioning, time-slicing, KAI Scheduler (Run:ai) · CUDA, cuDNN, NCCL, NVLink / NVSwitch, GPUDirect RDMA · TensorRT, TensorRT-LLM, Triton Inference Server, NIM microservices, NeMo Framework & Guardrails, Dynamo · DGX / HGX (H100, H200, GB200), BlueField DPU & DOCA · NGC catalog, AI Enterprise, Nsight profiling
 
+**Migration Strategy** — 7 Rs assessment (rehost, replatform, repurchase, refactor, retire, retain, relocate) · portfolio discovery and wave planning · Migration Acceleration Program (MAP) engagements · TCO and Migration Evaluator business cases
 
+**Kubernetes & Container Migrations** — self-managed Kubernetes → Amazon EKS · ECS → EKS · OpenShift → ROSA · on-prem → EKS Anywhere and Hybrid Nodes · Velero backup/restore and cluster relocation · in-place EKS version upgrades with eksup · CNI swaps (VPC CNI ↔ Cilium), Ingress → Gateway API, Cluster Autoscaler → Karpenter
+
+**Application Modernization** — monolith decomposition and strangler-fig migrations · containerization and 12-factor refactoring · serverless with Lambda, Fargate and Step Functions · event-driven architecture with EventBridge, SQS/SNS and MSK · API-first with API Gateway and gRPC
 
 ## 🏆 Certifications
 
@@ -50,6 +55,9 @@ I specialize in **Cloud-Native and Kubernetes**. I'm also a Open source geek. My
 ![GitOps](https://img.shields.io/badge/GitOps-Fundamentals_(ArgoCD)-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📝 Featured Blog Posts
+Full request and response compliance logging on Amazon EKS
+
+[![Full request and response compliance logging on Amazon EKS](https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/)
 
 ## 📊 GitHub Stats
 ![Stats Card](https://github-readme-stats-salesp07.vercel.app/api?username=dshamanthreddy&show_icons=true&theme=tokyonight&count_private=true)
